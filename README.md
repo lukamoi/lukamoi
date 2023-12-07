@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @lukamoi
+- 👋 Hi, I’m Rafa, aka @lukamoi
 - 🌱 I’m currently learning Python, particularly Flask and Django.
 - 💞️ I’m looking to collaborate on open source projects.
